@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies{
+implementation 'org.jgrapht:jgrapht-core:1.4.0'
+implementation 'org.jgrapht:jgrapht-ext:1.4.0'
+implementation 'org.jgrapht:jgrapht-io:1.4.0'
+implementation 'guru.nidi:graphviz-java-all-j2v8:0.17.0'
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b38e02f-78db-4832-9435-7ebf4df621c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jdcmnuUnOvkPlGN53FQ3DTpa7K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../project1/project" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.13391739" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle compile" />
+      <command value="gradle compileJava" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HelloJGraphT">
+    <configuration name="HelloJGraphT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jgrapht.demo.HelloJGraphT" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jgrapht.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compileJava" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="project [compile]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compile" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloJGraphT" />
+        <item itemvalue="Gradle.project [compileJava]" />
+        <item itemvalue="Gradle.project [compile]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b38e02f-78db-4832-9435-7ebf4df621c3" name="Default Changelist" comment="" />
+      <created>1604137571397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604137571397</updated>
+      <workItem from="1604137583126" duration="15072000" />
+      <workItem from="1604484235333" duration="645000" />
+      <workItem from="1604485033820" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1480" y="106" key="#Project_Structure" timestamp="1604138726384">
+      <screen x="1152" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1480" y="106" key="#Project_Structure/1152.0.1680.1050/0.0.1152.720@1152.0.1680.1050" timestamp="1604138726384" />
+    <state x="1727" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604140214426">
+      <screen x="1152" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1727" y="334" key="#com.intellij.fileTypes.FileTypeChooser/1152.0.1680.1050/0.0.1152.720@1152.0.1680.1050" timestamp="1604140214426" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1604484283377">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/-1920.9.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1604484283377" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1604155369094">
+      <screen x="1152" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/1152.0.1680.1050/0.0.1152.720@1152.0.1680.1050" timestamp="1604155369094" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1604155369092">
+      <screen x="1152" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/1152.0.1680.1050/0.0.1152.720@1152.0.1680.1050" timestamp="1604155369092" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1604155369089">
+      <screen x="1152" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/1152.0.1680.1050/0.0.1152.720@1152.0.1680.1050" timestamp="1604155369089" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1604155369093">
+      <screen x="1152" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/1152.0.1680.1050/0.0.1152.720@1152.0.1680.1050" timestamp="1604155369093" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1604485790120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/-1920.9.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1604485790120" />
+    <state x="1794" y="310" key="chooseDestDirectoryDialog" timestamp="1604138383811">
+      <screen x="1152" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1794" y="310" key="chooseDestDirectoryDialog/1152.0.1680.1050/0.0.1152.720@1152.0.1680.1050" timestamp="1604138383811" />
+    <state x="685" y="502" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604485205854">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="502" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.9.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1604485205854" />
+    <state x="577" y="255" width="766" height="695" key="run.anything.popup" timestamp="1604485612590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="577" y="255" width="766" height="695" key="run.anything.popup/-1920.9.1280.720/0.0.1920.1080@0.0.1920.1080" timestamp="1604485612590" />
+    <state x="1657" y="248" width="670" height="675" key="run.anything.popup/1152.0.1680.1050/0.0.1152.720@1152.0.1680.1050" timestamp="1604138710838" />
+  </component>
+</project>
